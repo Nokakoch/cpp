@@ -4,7 +4,7 @@
  Better say : It is made for easy use .
  
  -----------------
- # How looks :
+ # How it looks :
   #include <'iostream'> <br/>
   using namespace std; <br/>
   <br/>
